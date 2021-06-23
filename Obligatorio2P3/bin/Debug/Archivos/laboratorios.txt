@@ -1,2 +1,4 @@
 id|nombre|pais|experiencia
-1|laboratorio1|uruguay|1
+1|LABORATIORIO1|URUGUAY|1
+2|LABORATIORIO2|ARGENTINA|1
+3|LABORATIORIO3|BRASIL|0

@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/MVC/MVC.csproj": {}
+    "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\MVC\\MVC.csproj": {}
   },
   "projects": {
-    "/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/MVC/MVC.csproj": {
+    "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/MVC/MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\MVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/MVC/MVC.csproj",
-        "packagesPath": "/Users/eliasalcoba/.nuget/packages/",
-        "outputPath": "/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/MVC/obj/",
+        "projectPath": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\MVC\\MVC.csproj",
+        "packagesPath": "C:\\Users\\Elias Alcoba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\MVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/eliasalcoba/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Elias Alcoba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -16,3 +16,21 @@
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Obligatorio2P3/obj/Debug/Obligatorio2P3.csproj.CopyComplete
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Obligatorio2P3/obj/Debug/Obligatorio2P3.exe
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Obligatorio2P3/obj/Debug/Obligatorio2P3.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Obligatorio2P3.exe.config
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Obligatorio2P3.exe
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Obligatorio2P3.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Datos.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Dominio.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\EntityFramework.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Datos.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Datos.dll.config
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Dominio.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\Dominio.dll.config
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\EntityFramework.xml
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\obj\Debug\Obligatorio2P3.csprojAssemblyReference.cache
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\obj\Debug\Obligatorio2P3.csproj.CoreCompileInputs.cache
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\obj\Debug\Obligatorio2P3.csproj.CopyComplete
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\obj\Debug\Obligatorio2P3.exe
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Obligatorio2P3\obj\Debug\Obligatorio2P3.pdb

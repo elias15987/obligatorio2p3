@@ -1,4 +1,6 @@
 cod|descripcion
-aa|acuna acuna
-bb|bacuna con b
+VV|VECTOR VIRAL
+MRNA|ARN MENSAJERO
+IV|VIRUS INACTIVADO
+PB|BASADO EN PROTEINAS
 

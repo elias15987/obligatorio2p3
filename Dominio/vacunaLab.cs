@@ -12,7 +12,11 @@ namespace Dominio
     public class vacunaLab
     {
         public int Id { get; set; }
-        public Vacunas vacuna { get; set; }
-        public Laboratorios laboratorio { get; set; }
+        [ForeignKey("Vacuna")]
+        public int VacunaId { get; set; }
+        public virtual Vacunas Vacuna { get; set; }
+        [ForeignKey("Laboratorio")]
+        public int LaboratorioId { get; set; }
+        public virtual Laboratorios Laboratorio { get; set; }
     }
 }

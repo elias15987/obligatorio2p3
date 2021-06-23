@@ -10,3 +10,14 @@
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/obj/Debug/Dominio.csproj.CopyComplete
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/obj/Debug/Dominio.dll
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/obj/Debug/Dominio.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\bin\Debug\Dominio.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\obj\Debug\Dominio.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Dominio\obj\Debug\Dominio.pdb

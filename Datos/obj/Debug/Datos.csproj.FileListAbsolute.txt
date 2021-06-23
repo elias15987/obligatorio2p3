@@ -13,3 +13,18 @@
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/obj/Debug/Datos.csproj.CopyComplete
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/obj/Debug/Datos.dll
 /Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/obj/Debug/Datos.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\Datos.dll.config
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\Datos.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\Datos.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\Dominio.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\Dominio.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\Dominio.dll.config
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\obj\Debug\Datos.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\Datos\obj\Debug\Datos.pdb

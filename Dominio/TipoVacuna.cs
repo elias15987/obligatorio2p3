@@ -14,5 +14,8 @@ namespace Dominio
         [Key]   
         public string Cod { get; set; }
         public string Descripcion { get; set; }
+
+        public ICollection<Vacunas> vacunas { get; set; }
+
     }
 }

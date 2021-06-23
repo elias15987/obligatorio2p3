@@ -1,0 +1,2 @@
+id|nombre|tipo|estatus|cantDosis|lapsosEntreDosisDias|edadMin|edadMax|eficaciaCovid|prevenirHospitalizacion|prevenirCti|tempMin|tempMax|faseClinica|emergencia|efectos|precio|cantDosisProd|covax|usuarioRegistrado|usuarioEdit|FechaActualizado
+1|VACUNA1|VV|URUGUAY,ARGENTINA|2|30|18|60|80|80|80|0|10|1|1|MIGRAÑA TEMPORAL|3000|5000|1|47632531|47632531|2021-05-01
