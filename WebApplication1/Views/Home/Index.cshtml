@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+@if (ViewBag.Alerta != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.Alerta
+    </div>
+}
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.Mensaje
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.Label("cedula", "Usuario", new { @class = "control-label col-md-2" })
+            <div class="col-md-3">
+                @Html.Editor("cedula", new { htmlAttributes = new { @type = "number", @class = "form-control" } })
+                @Html.ValidationMessage("Cedula", "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("password", "Contraseña", new { @class = "control-label col-md-2" })
+            <div class="col-md-3">
+                @Html.Editor("password", new { htmlAttributes = new { @type = "password", @class = "form-control" } })
+                @Html.ValidationMessage("password", "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Login" class="btn btn-light" />
+            </div>
+        </div>
+    </div>
+
+
+
+}
+

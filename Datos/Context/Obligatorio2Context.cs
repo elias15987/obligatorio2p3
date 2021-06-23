@@ -18,6 +18,7 @@ namespace Datos.Context
 
         public Obligatorio2Context() : base("MiConexion")
         {
+            Database.SetInitializer<Obligatorio2Context>(new DropCreateDatabaseAlways<Obligatorio2Context>());
         }
     }
 }

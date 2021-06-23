@@ -77,3 +77,11 @@ C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\obj\Debug\n
 C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\obj\Debug\net5.0\MVC.pdb
 C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\obj\Debug\net5.0\MVC.genruntimeconfig.cache
 C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\obj\Debug\net5.0\MVC.csproj.CopyComplete
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\bin\Debug\net5.0\Datos.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\bin\Debug\net5.0\Dominio.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\bin\Debug\net5.0\Datos.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\bin\Debug\net5.0\Datos.dll.config
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\bin\Debug\net5.0\Dominio.pdb
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\bin\Debug\net5.0\Dominio.dll.config
+C:\Users\Elias Alcoba\source\repos\obligatorio2p3\obligatorio2p3\MVC\bin\Debug\net5.0\EntityFramework.xml

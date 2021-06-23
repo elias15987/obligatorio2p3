@@ -4,6 +4,35 @@
     "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\MVC\\MVC.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Datos\\Datos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Datos\\Datos.csproj",
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Dominio\\Dominio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    },
+    "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Dominio\\Dominio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Dominio\\Dominio.csproj"
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    },
     "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\MVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +60,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\Elias Alcoba\\source\\repos\\obligatorio2p3\\obligatorio2p3\\Datos\\Datos.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -43,6 +76,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -60,35 +60,12 @@ namespace Dominio
             vacunaLabs = new HashSet<vacunaLab>();
 
         }
-    }
 
-    public class ValidarMenorQue : ValidationAttribute
-    {
-        public double Min { get; set; }
-        public double Max { get; set; }
 
-        public ValidarMenorQue()
+        public bool IsValid()
         {
-            this.Min = 0;
-            this.Max = double.MaxValue;
-        }
-
-        public ValidarMenorQue(double min, double max)
-        {
-            this.Min = min;
-            this.Max = max;
-        }
-
-        public override bool IsValid(object value)
-        {
-            string strValue = value as string;
-            if (!string.IsNullOrEmpty(strValue))
-            {
-                return this.Min < this.Max;
-            }
-            return true;
+            return this.TempMin < this.TempMax && this.EdadMin < this.EdadMax;
         }
     }
-
 
 }

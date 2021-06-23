@@ -269,34 +269,38 @@ namespace Datos.Repositorios
                             FechaEdit = DateTime.Parse(stringSplit[21])
                         };
 
-                        string[] estatusSplit = stringSplit[3].Split(new string[] { "," }, StringSplitOptions.None);
-
-                        Array.Sort(estatusSplit, StringComparer.InvariantCulture);
-
-                        foreach(string s in estatusSplit)
+                        if (vac.IsValid())
                         {
-                            if(vac.Estatus == "")
+
+                            string[] estatusSplit = stringSplit[3].Split(new string[] { "," }, StringSplitOptions.None);
+
+                            Array.Sort(estatusSplit, StringComparer.InvariantCulture);
+
+                            foreach(string s in estatusSplit)
                             {
-                                vac.Estatus += s;
+                                if(vac.Estatus == "")
+                                {
+                                    vac.Estatus += s;
+                                }
+                                else
+                                {
+                                    vac.Estatus += "," + s;
+                                }
                             }
-                            else
+
+                            var codigoTipoVac = stringSplit[2];
+
+                            TipoVacuna tipoVac = dbContext.TipoVacunas.FirstOrDefault(x => x.Cod == codigoTipoVac);
+
+                            if (tipoVac != null) vac.Tipo = tipoVac;
+
+                            Vacunas existeVac = dbContext.Vacunas.FirstOrDefault(x => x.Id == vac.Id || x.Nombre.ToUpper() == vac.Nombre.ToUpper());
+
+                            if (existeVac == null)
                             {
-                                vac.Estatus += "," + s;
+                                dbContext.Vacunas.Add(vac);
+                                dbContext.SaveChanges();
                             }
-                        }
-
-                        var codigoTipoVac = stringSplit[2];
-
-                        TipoVacuna tipoVac = dbContext.TipoVacunas.FirstOrDefault(x => x.Cod == codigoTipoVac);
-
-                        if (tipoVac != null) vac.Tipo = tipoVac;
-
-                        Vacunas existeVac = dbContext.Vacunas.FirstOrDefault(x => x.Id == vac.Id || x.Nombre.ToUpper() == vac.Nombre.ToUpper());
-
-                        if (existeVac == null)
-                        {
-                            dbContext.Vacunas.Add(vac);
-                            dbContext.SaveChanges();
                         }
                     }
 
