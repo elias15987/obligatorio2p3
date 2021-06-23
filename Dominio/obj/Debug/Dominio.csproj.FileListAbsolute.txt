@@ -1,0 +1,12 @@
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/bin/Debug/Dominio.dll.config
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/bin/Debug/Dominio.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/bin/Debug/Dominio.pdb
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/bin/Debug/EntityFramework.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/bin/Debug/EntityFramework.SqlServer.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/bin/Debug/EntityFramework.xml
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/bin/Debug/EntityFramework.SqlServer.xml
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/obj/Debug/Dominio.csprojAssemblyReference.cache
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/obj/Debug/Dominio.csproj.CoreCompileInputs.cache
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/obj/Debug/Dominio.csproj.CopyComplete
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/obj/Debug/Dominio.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Dominio/obj/Debug/Dominio.pdb

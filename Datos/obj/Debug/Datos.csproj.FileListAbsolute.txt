@@ -1,0 +1,15 @@
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/Datos.dll.config
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/Datos.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/Datos.pdb
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/Dominio.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/EntityFramework.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/EntityFramework.SqlServer.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/Dominio.pdb
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/Dominio.dll.config
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/EntityFramework.xml
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/bin/Debug/EntityFramework.SqlServer.xml
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/obj/Debug/Datos.csprojAssemblyReference.cache
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/obj/Debug/Datos.csproj.CoreCompileInputs.cache
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/obj/Debug/Datos.csproj.CopyComplete
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/obj/Debug/Datos.dll
+/Users/eliasalcoba/Documents/facultad/p3/obligatorio2/Obligatorio2/Datos/obj/Debug/Datos.pdb

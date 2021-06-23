@@ -1,0 +1,5 @@
+id|nombre|apellido|ci|pass|autorizado
+1|elias|alcoba|47632531|1234E*|1
+1|elias|alcoba|41231232|1234E*|1
+1|elias|alcoba|47632531|1234E*|1
+

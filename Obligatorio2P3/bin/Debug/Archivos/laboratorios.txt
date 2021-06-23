@@ -1,0 +1,2 @@
+id|nombre|pais|experiencia
+1|laboratorio1|uruguay|1

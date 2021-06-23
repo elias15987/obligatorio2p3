@@ -1,0 +1,4 @@
+cod|descripcion
+aa|acuna acuna
+bb|bacuna con b
+

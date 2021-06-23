@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2F876463-EF56-406C-821F-B15492D63FEF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Obligatorio2P3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dominio/Laboratorios.cs">
+    <Files>
+      <File FileName="Obligatorio2P3/Program.cs" Line="14" Column="1" />
+      <File FileName="Datos/Repositorios/ImportarArchivos.cs" Line="137" Column="65" />
+      <File FileName="Dominio/Laboratorios.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Obligatorio2" expanded="True">
+            <Node name="Datos" expanded="True">
+              <Node name="Repositorios" expanded="True" />
+            </Node>
+            <Node name="Dominio" expanded="True">
+              <Node name="Laboratorios.cs" selected="True" />
+            </Node>
+            <Node name="Obligatorio2P3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
